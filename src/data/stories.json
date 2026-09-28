@@ -1,0 +1,354 @@
+{
+  "stories": [
+    {
+      "id": "story-001",
+      "event_id": "event-energy-2026",
+      "title": "Global Summit Adopts Historic $120B Grid Modernization Pact Across 42 Nations",
+      "standfirst": "Forty-two nations pledged $120 billion to upgrade cross-border electrical grids and accelerate renewable power transmission by 2035.",
+      "article_text": "Forty-two nations finalized a binding $120 billion multilateral infrastructure pact in Geneva on Wednesday to overhaul cross-border electrical interconnections by 2035.\n\nThe agreement establishes common engineering standards for ultra-high voltage direct current (UHVDC) transmission lines and allocates $45 billion from public funding alongside $75 billion in designated private infrastructure investments.\n\nEnergy ministers confirmed that grid interconnection will reduce regional electricity wastage by an estimated 18 percent over the next decade. Implementation oversight will be coordinated by the International Energy Agency with annual compliance reporting.",
+      "key_points": [
+        "Forty-two nations agreed in Geneva to allocate $120 billion toward international power grid modernization by 2035.",
+        "The pact commits $45 billion in government financing with $75 billion mobilized through private infrastructure capital.",
+        "The initiative standardizes ultra-high voltage direct current transmission across participating continents.",
+        "The International Energy Agency will manage compliance reviews and publish progress reports annually.",
+        "Engineering teams project the modern grid network will cut energy transmission waste by 18 percent."
+      ],
+      "source_count": 10,
+      "created_at": "2026-09-27T08:30:00Z",
+      "image_urls": ["https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=80"],
+      "pexels_image_urls": ["https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1200&q=80"],
+      "events": {
+        "id": "event-energy-2026",
+        "title": "Global Grid Modernization Accord Signed in Geneva",
+        "topic": "Energy",
+        "scope": "Global"
+      }
+    },
+    {
+      "id": "story-002",
+      "event_id": "event-quantum-2026",
+      "title": "International Consortium Validates First Error-Corrected Quantum Processor with 1,000 Logical Qubits",
+      "standfirst": "Independent physicists in Zurich and Tokyo confirmed that a newly tested quantum processor sustained 1,000 fault-tolerant logical qubits without decoherence for four continuous minutes.",
+      "article_text": "Independent research teams at ETH Zurich and the University of Tokyo published peer-reviewed findings on Tuesday confirming the successful operation of a 1,000 logical qubit quantum processor.\n\nThe device, developed through an eight-nation academic and industrial consortium, maintained continuous coherence under surface code error-correction protocols for 248 seconds at 15 millikelvin.\n\nThe benchmarked error rate dropped to 0.0004 percent per gate operation, crossing the threshold necessary for practical cryptographic verification and molecular simulation.\n\nCommercial access is scheduled to open for approved scientific research facilities starting in the first quarter of 2027.",
+      "key_points": [
+        "Independent laboratories in Zurich and Tokyo confirmed a 1,000 logical qubit processor maintained stability for 248 seconds.",
+        "The platform achieved a verified operational gate error rate of 0.0004 percent.",
+        "Surface code error correction was maintained continuously at 15 millikelvin temperatures.",
+        "An eight-nation consortium funded the six-year development project.",
+        "Verified research institutions will receive structured platform access in early 2027."
+      ],
+      "source_count": 9,
+      "created_at": "2026-09-26T14:15:00Z",
+      "image_urls": ["https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1200&q=80"],
+      "pexels_image_urls": ["https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1200&q=80"],
+      "events": {
+        "id": "event-quantum-2026",
+        "title": "Consortium Benchmarks 1,000 Logical Qubit Processor",
+        "topic": "Technology",
+        "scope": "Science"
+      }
+    },
+    {
+      "id": "story-003",
+      "event_id": "event-trade-2026",
+      "title": "Pacific Rim Nations Standardize Maritime Automated Cargo Clearance Protocols",
+      "standfirst": "Fourteen maritime authorities signed an agreement to unify digital customs documentation and autonomous vessel berthing rules across 28 container ports.",
+      "article_text": "Port directors from fourteen Pacific Rim economies finalized unified digital clearance protocols on Thursday during meetings in Singapore.\n\nThe accord establishes digital identity verification for automated cargo carriers and replaces paper manifests across 28 major marine terminals starting November 1.\n\nPort authorities estimate the streamlined clearance will shorten average container dwell times from 42 hours down to 18 hours.\n\nThe standards mandate standardized cybersecurity testing for automated mooring systems and container terminal cranes.",
+      "key_points": [
+        "Fourteen Pacific Rim economies signed unified customs and docking protocols in Singapore.",
+        "The digital standard takes effect across 28 marine container terminals on November 1.",
+        "Average container dwell time is projected to drop from 42 hours to 18 hours.",
+        "The regulations include mandatory third-party cybersecurity audits for automated crane equipment.",
+        "Paper inspection documentation will be replaced entirely with cryptographically signed manifests."
+      ],
+      "source_count": 8,
+      "created_at": "2026-09-25T19:40:00Z",
+      "image_urls": ["https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80"],
+      "pexels_image_urls": ["https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80"],
+      "events": {
+        "id": "event-trade-2026",
+        "title": "Pacific Maritime Terminal Modernization Treaty",
+        "topic": "Trade & Logistics",
+        "scope": "Economy"
+      }
+    }
+  ],
+  "sources": {
+    "event-energy-2026": [
+      {
+        "id": "src-e1",
+        "source": "Reuters",
+        "canonical_outlet": "Reuters",
+        "title": "Forty-two nations sign $120 bln cross-border power grid accord in Geneva",
+        "summary": "Ministers from 42 countries concluded negotiations in Geneva on Wednesday, approving a $120 billion investment framework to link electrical power grids across regional borders by 2035. The agreement directs $45 billion in sovereign public funds and $75 billion from private consortia to build high-voltage direct current lines. The International Energy Agency will oversee compliance.",
+        "url": "https://www.reuters.com/business/energy/grid-pact-2026",
+        "published_at": "2026-09-27T07:15:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-e2",
+        "source": "BBC News",
+        "canonical_outlet": "BBC News",
+        "title": "Historic $120bn green grid deal agreed at Geneva climate talks",
+        "summary": "Delegates from 42 countries celebrated the signing of an ambitious international power grid pact in Geneva. The deal guarantees $120 billion to upgrade transmission networks, designed to transport surplus wind and solar electricity directly between continents. Officials project an 18% reduction in transmission line losses.",
+        "url": "https://www.bbc.com/news/science-environment-2026",
+        "published_at": "2026-09-27T07:45:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-e3",
+        "source": "The Wall Street Journal",
+        "canonical_outlet": "The Wall Street Journal",
+        "title": "Private Capital Backs $120 Billion International Power Grid Treaty",
+        "summary": "Under the new Geneva accord, private infrastructure funds will shoulder $75 billion of a $120 billion transmission overhaul across 42 signatory states. While industry groups applauded standardized direct-current equipment rules, some domestic utilities questioned the tight 2035 timeline for cross-border permits.",
+        "url": "https://www.wsj.com/articles/power-grid-treaty-geneva-2026",
+        "published_at": "2026-09-27T08:00:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-e4",
+        "source": "The Associated Press",
+        "canonical_outlet": "Associated Press",
+        "title": "42 nations commit $120 billion to link electricity grids",
+        "summary": "In an effort to prevent regional blackouts and speed clean energy sharing, 42 nations pledged $120 billion on Wednesday. The funding splits into $45 billion from public treasuries and $75 billion from institutional investors. The International Energy Agency will conduct mandatory yearly audits.",
+        "url": "https://apnews.com/article/geneva-power-grid-pact-2026",
+        "published_at": "2026-09-27T08:10:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-e5",
+        "source": "Financial Times",
+        "canonical_outlet": "Financial Times",
+        "title": "Geneva energy accord promises $120bn injection for intercontinental cables",
+        "summary": "Forty-two governments signed a sweeping treaty in Geneva targeting cross-border transmission bottlenecks. The pact establishes common technical benchmarks for ultra-high voltage direct current (UHVDC) cables and pledges $120bn by 2035, with $45bn direct state support.",
+        "url": "https://www.ft.com/content/energy-grid-geneva-2026",
+        "published_at": "2026-09-27T08:20:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-e6",
+        "source": "The Guardian",
+        "canonical_outlet": "The Guardian",
+        "title": "Landmark Geneva deal: 42 countries pledge $120bn to rewire global grids",
+        "summary": "Climate campaigners praised the Geneva agreement signed by 42 nations to spend $120bn on renewable transmission corridors. Green energy groups noted that without coordinated interconnection, massive renewable power generation has repeatedly been curtailed during peak sun and wind periods.",
+        "url": "https://www.theguardian.com/environment/2026/sep/27/geneva-grid-pact",
+        "published_at": "2026-09-27T08:35:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-e7",
+        "source": "Bloomberg",
+        "canonical_outlet": "Bloomberg",
+        "title": "Global Grid Modernization Plan Sets $75 Billion Private Financing Target",
+        "summary": "The 42-nation pact brokered in Geneva relies heavily on private markets to fund $75 billion of the $120 billion headline expenditure. Regulators agreed to harmonize transmission tariff structures across borders to ensure predictable returns on high-voltage transmission lines.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-27/grid-pact-geneva",
+        "published_at": "2026-09-27T08:40:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-e8",
+        "source": "Deutsche Welle",
+        "canonical_outlet": "Deutsche Welle",
+        "title": "Geneva summit: 42 states strike major electricity network deal",
+        "summary": "European and international partners agreed in Geneva on a $120 billion modernization scheme. Energy analysts estimate that linking grids across borders will reduce transmission wastage by roughly 18 percent by 2035, smoothing supply spikes.",
+        "url": "https://www.dw.com/en/geneva-grid-treaty-2026",
+        "published_at": "2026-09-27T08:50:00Z",
+        "country": "Germany"
+      },
+      {
+        "id": "src-e9",
+        "source": "Politico",
+        "canonical_outlet": "Politico",
+        "title": "Inside the Geneva grid pact: How 42 nations clinched the $120B accord",
+        "summary": "Behind closed doors in Geneva, negotiators resolved fierce disputes over international grid governance and cost allocation. The agreed text empowers the International Energy Agency with annual compliance reporting while locking in $45 billion in government commitments and $75 billion in private financing.",
+        "url": "https://www.politico.eu/article/geneva-grid-talks-inside-story",
+        "published_at": "2026-09-27T09:05:00Z",
+        "country": "Belgium"
+      },
+      {
+        "id": "src-e10",
+        "source": "Al Jazeera",
+        "canonical_outlet": "Al Jazeera",
+        "title": "Geneva accord: 42 nations agree $120bn initiative for clean electricity transit",
+        "summary": "A coalition of 42 countries announced a joint $120 billion commitment in Geneva to modernize intercontinental transmission lines. Officials confirmed the treaty will facilitate renewable energy export between developing and industrialized economies, monitored by the IEA.",
+        "url": "https://www.aljazeera.com/economy/2026/9/27/geneva-grid-agreement",
+        "published_at": "2026-09-27T09:15:00Z",
+        "country": "Qatar"
+      }
+    ],
+    "event-quantum-2026": [
+      {
+        "id": "src-q1",
+        "source": "Nature News",
+        "canonical_outlet": "Nature",
+        "title": "1,000-qubit fault-tolerant quantum processor validated by independent labs",
+        "summary": "Physicists at ETH Zurich and the University of Tokyo have independently verified the operation of a 1,000 logical qubit processor. The system maintained surface-code error suppression for 248 seconds at 15 millikelvin, achieving a two-qubit gate error rate of 0.0004%.",
+        "url": "https://www.nature.com/articles/quantum-1000-qubits-2026",
+        "published_at": "2026-09-26T12:00:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-q2",
+        "source": "Reuters",
+        "canonical_outlet": "Reuters",
+        "title": "International consortium demonstrates milestone 1,000 logical qubit quantum chip",
+        "summary": "An eight-nation academic and industrial partnership has achieved the first verified operation of 1,000 error-corrected quantum bits. Research data published Tuesday shows the device held quantum coherence for over four minutes at 15 millikelvin. Peer researchers hailed the benchmark as a major technical step.",
+        "url": "https://www.reuters.com/technology/quantum-computing-breakthrough-2026",
+        "published_at": "2026-09-26T12:30:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-q3",
+        "source": "MIT Technology Review",
+        "canonical_outlet": "MIT Technology Review",
+        "title": "Quantum computing reaches the 1,000 logical qubit milestone",
+        "summary": "Independent confirmation from Tokyo and Zurich shows that quantum error correction works at scale. The 1,000-logical-qubit chip ran for 248 seconds with gate errors down to 0.0004 percent. The consortium announced cloud access for academic research partners will open in early 2027.",
+        "url": "https://www.technologyreview.com/2026/09/26/quantum-milestone-1000",
+        "published_at": "2026-09-26T13:00:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-q4",
+        "source": "The New York Times",
+        "canonical_outlet": "The New York Times",
+        "title": "Scientists Announce Advance in Quantum Computing Error Correction",
+        "summary": "Researchers in Japan and Switzerland reported that a test processor with 1,000 logical qubits achieved stable computation for four continuous minutes. The milestone was achieved using surface code error correction at cryogenic temperatures of 15 millikelvin. Scientists caution that everyday consumer applications remain decades away.",
+        "url": "https://www.nytimes.com/2026/09/26/science/quantum-computing-logical-qubits.html",
+        "published_at": "2026-09-26T13:30:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-q5",
+        "source": "Nikkei Asia",
+        "canonical_outlet": "Nikkei Asia",
+        "title": "Tokyo University and Swiss team verify 1,000-qubit quantum threshold",
+        "summary": "In joint papers released Tuesday, researchers at the University of Tokyo and ETH Zurich detailed tests on a 1,000 logical qubit platform. Sustained error correction for 248 seconds with a 0.0004% error threshold paves the way for molecular simulation in pharmacology.",
+        "url": "https://asia.nikkei.com/Business/Tech/Tokyo-Zurich-quantum-test-2026",
+        "published_at": "2026-09-26T13:45:00Z",
+        "country": "Japan"
+      },
+      {
+        "id": "src-q6",
+        "source": "Wired",
+        "canonical_outlet": "Wired",
+        "title": "The Quantum Era Just Got a Lot Closer With 1,000 Logical Qubits",
+        "summary": "For years quantum computers were plagued by noise. Now, an eight-nation consortium has proved that 1,000 logical qubits can be stabilized for four minutes at 15 millikelvin. The operational error rate reached 0.0004%. Academic access opens in Q1 2027.",
+        "url": "https://www.wired.com/story/quantum-computing-1000-logical-qubits-2026",
+        "published_at": "2026-09-26T14:10:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-q7",
+        "source": "Associated Press",
+        "canonical_outlet": "Associated Press",
+        "title": "Physicists confirm milestone in quantum computing error correction",
+        "summary": "Independent testing teams have verified a processor that maintains 1,000 logical qubits for 248 seconds. The eight-nation consortium plans to provide cloud access to approved university and research laboratories starting in the first quarter of 2027.",
+        "url": "https://apnews.com/article/quantum-computing-science-milestone-2026",
+        "published_at": "2026-09-26T14:30:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-q8",
+        "source": "The Financial Times",
+        "canonical_outlet": "Financial Times",
+        "title": "Commercial race heats up after 1,000-qubit processor validation",
+        "summary": "Investors are reassessing timelines for quantum utility after Zurich and Tokyo labs corroborated the stability of a 1,000 logical qubit device. The system operated at 15 millikelvin with an error rate of 0.0004% per gate operation.",
+        "url": "https://www.ft.com/content/quantum-1000-qubit-race-2026",
+        "published_at": "2026-09-26T14:45:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-q9",
+        "source": "Ars Technica",
+        "canonical_outlet": "Ars Technica",
+        "title": "Inside the 1,000 logical qubit test: 248 seconds of surface-code stability",
+        "summary": "A deep dive into the peer-reviewed physics behind the 1,000 logical qubit benchmark. Using surface-code error correction across 248 seconds at 15 millikelvin, the system sustained gate operations with an error rate of 0.0004 percent. Commercial deployment for research centers begins in Q1 2027.",
+        "url": "https://arstechnica.com/science/2026/09/quantum-error-correction-1000-qubits",
+        "published_at": "2026-09-26T15:00:00Z",
+        "country": "United States"
+      }
+    ],
+    "event-trade-2026": [
+      {
+        "id": "src-t1",
+        "source": "The Straits Times",
+        "canonical_outlet": "The Straits Times",
+        "title": "Singapore summit: 14 Pacific Rim nations ink digital maritime accord",
+        "summary": "Port officials from 14 nations signed an agreement in Singapore on Thursday to harmonize customs clearances and autonomous ship berthing across 28 ports. The system rolls out November 1 and will replace physical paperwork with cryptographic manifests, reducing container dwell times from 42 to 18 hours.",
+        "url": "https://www.straitstimes.com/singapore/maritime-accord-2026",
+        "published_at": "2026-09-25T18:00:00Z",
+        "country": "Singapore"
+      },
+      {
+        "id": "src-t2",
+        "source": "Reuters",
+        "canonical_outlet": "Reuters",
+        "title": "Pacific Rim ports agree automated cargo clearance pact across 28 hubs",
+        "summary": "Fourteen maritime authorities signed an agreement in Singapore on Thursday to implement standardized digital cargo clearance across 28 container ports starting November 1. Port authorities project average container dwell times will fall from 42 hours to 18 hours.",
+        "url": "https://www.reuters.com/business/shipping/pacific-cargo-accord-2026",
+        "published_at": "2026-09-25T18:30:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-t3",
+        "source": "The Wall Street Journal",
+        "canonical_outlet": "The Wall Street Journal",
+        "title": "Pacific Ports Sign Digital Customs Pact to Cut Container Delays",
+        "summary": "A treaty covering 28 container ports in 14 Pacific Rim countries aims to compress cargo dwell times from 42 hours down to 18 hours. Beginning November 1, paper manifests will be phased out in favor of encrypted digital clearance, alongside mandatory third-party cybersecurity audits for automated port cranes.",
+        "url": "https://www.wsj.com/articles/pacific-ports-customs-pact-2026",
+        "published_at": "2026-09-25T19:00:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-t4",
+        "source": "South China Morning Post",
+        "canonical_outlet": "South China Morning Post",
+        "title": "Fourteen Pacific economies agree digital maritime protocol in Singapore",
+        "summary": "Representatives from 14 economies completed the Pacific Port Harmonization Treaty in Singapore. The agreement creates interoperable digital manifests across 28 major container terminals, with launch scheduled for November 1.",
+        "url": "https://www.scmp.com/economy/global-economy/article/pacific-port-treaty-2026",
+        "published_at": "2026-09-25T19:15:00Z",
+        "country": "Hong Kong"
+      },
+      {
+        "id": "src-t5",
+        "source": "Lloyd's List",
+        "canonical_outlet": "Lloyd's List",
+        "title": "Automated berthing and digital customs ratified by 14 Pacific port authorities",
+        "summary": "A landmark maritime pact finalized in Singapore establishes binding technical rules for autonomous vessel berthing and digital cargo verification across 28 terminals. Average turnarounds are estimated to improve significantly, cutting container dwell times from 42 hours to 18 hours.",
+        "url": "https://lloydslist.maritimeintelligence.informa.com/pacific-port-standards-2026",
+        "published_at": "2026-09-25T19:30:00Z",
+        "country": "United Kingdom"
+      },
+      {
+        "id": "src-t6",
+        "source": "Associated Press",
+        "canonical_outlet": "Associated Press",
+        "title": "14 Pacific Rim economies launch digital cargo customs system",
+        "summary": "Fourteen countries agreed Thursday to speed up global trade by replacing paper manifests with digital customs clearance across 28 Pacific container ports by November 1. Officials say container dwell times could drop from 42 hours to 18 hours.",
+        "url": "https://apnews.com/article/shipping-ports-pacific-digital-accord-2026",
+        "published_at": "2026-09-25T19:45:00Z",
+        "country": "United States"
+      },
+      {
+        "id": "src-t7",
+        "source": "The Australian Financial Review",
+        "canonical_outlet": "Australian Financial Review",
+        "title": "Singapore treaty streamlines Pacific trade lanes with digital customs",
+        "summary": "Australian and Pacific trade partners signed the Singapore accord on Thursday, setting November 1 for unified digital clearance across 28 marine gateways. The pact mandates stringent cybersecurity certifications for all automated dock cranes and mooring equipment.",
+        "url": "https://www.afr.com/companies/transport/singapore-maritime-accord-2026",
+        "published_at": "2026-09-25T20:00:00Z",
+        "country": "Australia"
+      },
+      {
+        "id": "src-t8",
+        "source": "Nikkei Asia",
+        "canonical_outlet": "Nikkei Asia",
+        "title": "Pacific shipping hubs sign automated berthing and customs treaty",
+        "summary": "At a ministerial gathering in Singapore, 14 Pacific Rim nations established common digital guidelines for automated cargo berthing and clearance at 28 container ports starting November 1. Dwell times are expected to drop to 18 hours from current 42-hour averages.",
+        "url": "https://asia.nikkei.com/Economy/Trade/Singapore-pacific-shipping-accord-2026",
+        "published_at": "2026-09-25T20:15:00Z",
+        "country": "Japan"
+      }
+    ]
+  }
+}

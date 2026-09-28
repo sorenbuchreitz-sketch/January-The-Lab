@@ -1,0 +1,6 @@
+{
+  "name": "The Lab by January",
+  "description": "See how January writes neutral news from many sources. Change a rule and watch the article change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
